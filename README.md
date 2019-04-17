@@ -4,9 +4,15 @@ This project aims to create a Predictive model of how Scientific Paper content a
 
 Project to-do is as follows 
 1.) Download bulk Scientific Papers from https://arxiv.org/ 
+
 2.) Clean papers and compile into a dataset 
+
 3.) Brainstorm best methods to create a predictive model of how paper content affects the lifetime number of citations 
+
 4.) Test various methods 
+
 5.) Compare results 
+
 6.) Publish results 
+
 7.) Maintain an update as better methods are revealed
