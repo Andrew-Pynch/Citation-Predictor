@@ -3,6 +3,7 @@ This repository contains the code for the arXiv.org citation predictive model.
 This project aims to create a Predictive model of how Scientific Paper content affects the lifetime number of citations the paper receives. Although the feasibility and validity of such a model are not known, it should with all haste be attempted none the less.
 
 Project to-do is as follows 
+
 1.) Download bulk Scientific Papers from https://arxiv.org/ 
 
 2.) Clean papers and compile into a dataset 
