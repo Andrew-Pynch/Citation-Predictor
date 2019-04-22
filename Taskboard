@@ -1,0 +1,6 @@
+This file will be contiually updated to reflect the current needs of the project
+
+1.) Create simply PDF cleaner to strip papers in our dataset of all non-text information (kkajr is working on this)
+2.) Compiling a corpus of papers to be cleaned
+3.) Configuring remote access to my Machine-Learning server so that remote experiments can be performed by trusted project members
+4.) Creating proof of concept models to predict the number of citations from paper text content
